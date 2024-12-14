@@ -1,0 +1,17 @@
+.allure
+.idea
+allure-results
+target
+reports
+.DS_Store
+src/.DS_Store
+src/test/.DS_Store
+/rs-api-autotests.iml
+.env
+src/test/resources/warranty_report_1.xlsx
+src/test/resources/warranty_report_2.xlsx
+src/test/resources/warranty_report_3.xlsx
+src/test/resources/repair_report_1.xlsx
+src/test/resources/repair_report_2.xlsx
+src/test/resources/repair_report_3.xlsx
+build/downloads

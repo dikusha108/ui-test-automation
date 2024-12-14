@@ -1,0 +1,3 @@
+Sheet: Worksheet
+Серийный номер	Дата накладной	№ накладной	Гарантия до	Статус гарантии
+serial_numbersUnknown Cell TypeUnknown Cell TypeUnknown Cell TypeUnknown Cell Type
